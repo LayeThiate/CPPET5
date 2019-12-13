@@ -1,0 +1,8 @@
+Question 2.3
+
+std::unordered_multimap est plus rapide en construction, en insertion, en tri et en recherche.
+
+Question 2.5
+Soit n le nombre de lignes du fichier 
+La compléxité pour remplir le dictionnaire est O(n)
+La compléxité pour la recherche du mot qui a plus d'anagrammes : O(n*(n+n)) = O(n^2)
